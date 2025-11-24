@@ -13,3 +13,6 @@ https://pallini.di.uniroma1.it/
 
 NetworkX download:
 https://networkx.org/documentation/stable/install.html
+
+For the full collection of images produced using NetworkX Matplotlib, access:
+https://drive.google.com/drive/folders/1QV1VsMD9n0aIy4GqS0btCb5Y3fs8QID7?usp=sharing
