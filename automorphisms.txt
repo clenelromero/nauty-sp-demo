@@ -1,0 +1,45 @@
+Equivalence Classes Count: 1 on 0 edges
+
+Equivalence Classes Count: 1 on 1 edges
+
+Equivalence Classes Count: 2 on 2 edges
+
+Equivalence Classes Count: 5 on 3 edges
+
+Equivalence Classes Count: 10 on 4 edges
+
+Equivalence Classes Count: 21 on 5 edges
+
+Equivalence Classes Count: 41 on 6 edges
+
+Equivalence Classes Count: 65 on 7 edges
+
+Equivalence Classes Count: 97 on 8 edges
+
+Equivalence Classes Count: 131 on 9 edges
+
+Equivalence Classes Count: 148 on 10 edges
+
+Equivalence Classes Count: 148 on 11 edges
+
+Equivalence Classes Count: 131 on 12 edges
+
+Equivalence Classes Count: 97 on 13 edges
+
+Equivalence Classes Count: 65 on 14 edges
+
+Equivalence Classes Count: 41 on 15 edges
+
+Equivalence Classes Count: 21 on 16 edges
+
+Equivalence Classes Count: 10 on 17 edges
+
+Equivalence Classes Count: 5 on 18 edges
+
+Equivalence Classes Count: 2 on 19 edges
+
+Equivalence Classes Count: 1 on 20 edges
+
+Equivalence Classes Count: 1 on 21 edges
+
+Total equivalence classes: 1044
